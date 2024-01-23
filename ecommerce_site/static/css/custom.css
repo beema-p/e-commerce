@@ -1,0 +1,115 @@
+.nav-item{
+
+    letter-spacing: .2em;
+    font-size: 14px;
+    text-transform: uppercase;
+
+    }
+
+.dropdown-item{
+
+    letter-spacing: .2em;
+    font-size: 14px;
+    text-transform: uppercase;
+
+    }
+
+body{
+    font-family: "Playfair Display", serif;;
+}
+
+.my_footer {
+
+    height :5px;
+    background-color:#f8f9fa;
+    }
+.my_footer p{
+padding: 15px;
+font-size: 14px;
+}
+
+
+/*** categories.html ***/
+.my_row{
+    padding-top:15px;
+}
+.row .mx_auto{
+    color: #000;
+    font-size:12px;
+}
+
+
+.my_image{
+    width:100%;
+    height:400px;
+}
+
+.my_title{
+    font-size:16px;
+    letter-spacing :.2em;
+    text_transform:uppercase;
+}
+.my_bottom_margin {
+    margin-bottom:10px;
+
+}
+.card-body h3{
+    font-size:14px;
+    letter-spacing :.2em;
+}
+
+.card-img-top{
+    padding-top:10px;
+    }
+/**** product page ***/
+
+.my_prod_row {
+    padding-top: 15px;
+    padding-bottom:20px;
+}
+
+.my_prod_row .mx_auto{
+     color: #000;
+    font-size:12px;
+    text-decoration:none;
+
+}
+.my_prod_title h1{
+
+    font-size:16px;
+    text_transform:uppercase;
+    letter-spacing: >2em;
+    padding-top:15px;
+    padding-bottom:10px;
+}
+.my_prod_text:
+    padding-right:20px;
+.my_search {
+    padding-top:20px;
+}
+
+/*** cart page ***/
+
+.my_custom_table{
+    min-width:200px;
+    font-size:14px;
+}
+
+.my_custom_head{
+    font-weigh:normal;
+    text_transform:uppercase;
+    letter-spacing:.2em;
+    background-color:#f8f8fa; important;
+}
+
+.custom_a{
+    text-decoration:none;
+}
+
+.custom_icon{
+    text-decoration: none;
+
+}
+.my_custom_button{
+    margin-top:20 px;
+}
